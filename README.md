@@ -1,1 +1,3 @@
 # coding-test
+
+This project is a responsive social media webpage designed using HTML, CSS, and Bootstrap framework. It features a clean and modern interface, incorporating various components like navigation bar, user cards, activity updates, and group information. The design is optimized for different screen sizes, ensuring a seamless user experience across devices. The codebase utilizes CSS media queries to enhance responsiveness, making it adaptable for both desktop and mobile users. The webpage offers a visually appealing and functional social media platform template that can be customized for specific applications.
